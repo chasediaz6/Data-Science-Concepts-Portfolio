@@ -1,6 +1,6 @@
-# Data Science Concepts + Algorithms Portfolio 
+# Machine Learning Concepts + Algorithms Portfolio 
 
-A collection of data science projects completed through my Masters coursework. Many projects involved writing machine learning algorithms from scratch. 
+A collection of ML projects completed through my Masters coursework. Many projects involved writing ML algorithms from scratch. 
 
 | **Project** | **Topics** | **Description**| 
 |---------|---------|---------|
