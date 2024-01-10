@@ -6,7 +6,7 @@ Images (k=2, k=3, k=4, k = 5, full img)
 ## **k-means algorithm**
 k-means is an unsupervised clustering algorithm, 
 
-#### **Key k-means Takeaways:**
+#### **Key Algorithm Takeaways:**
 - Every intialization of the k-means algorithm may lead to different results
     - Since the k-means objective function is non-convex, we cannot guarantee that any particular local minimum found is a global minimum. Therefore, k-means may converge to different local minima on different runs, given a particular initialization (starting point). Sometimes different intializations may lead to different results, since one could find specific intializations that lead to the same results. 
 
