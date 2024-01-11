@@ -1,7 +1,7 @@
 ## **Image Compression with k-means implemented from scratch**
 In a colored image, each pixel has a size 3 bytes (RGB), where each color can have intensity values from 0 to 255. As humans, we can only practically visualize a few colors in an image. Image compression takes advantage of the visual perception of the human eye by using only the most prominent colors of an image to represent the image with all of its original (full) colors. By reducing the number of colors needed to represent the image, you also decreases the size of the image file. This project implements the k-means algorithm from scratch to demonstrate how it can be used to compress images using their most prominent colors while maintaining the perception of the full-color, original image.
 
-Images (k=2, k=3, k=4, k = 5, full img)
+![Football - k comparison](figs/football_comparison.png)
 
 ## **k-means algorithm**
 k-means is an unsupervised clustering algorithm, 
