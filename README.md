@@ -1,6 +1,6 @@
 # Machine Learning Concepts + Algorithms Portfolio 
 
-A collection of ML projects completed through my Masters coursework. Many projects involved writing ML algorithms from scratch. 
+A collection of ML projects completed through my Masters degree coursework. Many projects involved writing ML algorithms from scratch. 
 
 | **Project** | **Description**|
 |---------|---------|
