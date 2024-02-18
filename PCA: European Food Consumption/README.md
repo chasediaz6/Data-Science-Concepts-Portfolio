@@ -14,7 +14,7 @@ Principal Component Analysis is a dimensionality reduction technique used in sta
 - **Dimensionality Reduction**: PCA is widely used to reduce the number of features in a dataset while retaining as much of the original variability as possible. This simplifies models, speeds up computations, and helps avoid overfitting.
 - **Data Visualization**: PCA is valuable for visualizing high-dimensional data in two or three dimensions. It aids in identifying trends, clusters, or outliers in the data, making it easier to interpret and understand complex datasets.
 
-## **Data**: 
+## **Data: food-consumption.csv**: 
 ![Euro Food Consumption Data](https://github.com/chasediaz6/Machine-Learning-Concepts/blob/main/PCA%3A%20European%20Food%20Consumption/figs/euro_food_consumption_data.png)
 
 
